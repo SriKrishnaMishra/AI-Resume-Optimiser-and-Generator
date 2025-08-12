@@ -1,0 +1,40 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs and coverage
+*.log
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary/exported documents (keep if you want to track samples)
+*.pdf
+*.docx
