@@ -1,0 +1,6 @@
+:root { --accent: #2b8a3e; }
+
+h1, h2, h3, h4 { color: var(--accent) !important; }
+.block-container { padding-top: 1.2rem !important; }
+.stButton>button { background-color: var(--accent); color: #fff; border-radius: 6px; }
+.stProgress > div > div { background-color: var(--accent) !important; }

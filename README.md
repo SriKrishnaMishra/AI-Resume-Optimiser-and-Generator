@@ -1,5 +1,7 @@
 # AI Resume Optimiser and Generator
 
+Repository: https://github.com/SriKrishnaMishra/AI-Resume-Optimiser-and-Generator
+
 A Streamlit application that parses resumes, scores them against a target Job Description (JD), provides optimization suggestions (rule-based or via an optional LLM), and exports the improved resume to PDF or DOCX.
 
 ## Features
